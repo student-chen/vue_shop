@@ -6,8 +6,9 @@
          <div id="main" style="width: 1000px;height:600px;"></div>
       </el-col>
       <el-col :span="6">
-         <p>欢迎一起学习讨论</p>
-         <p>QQ: 1191448939</p>
+         <p>源码+数据库请联系</p>
+         <p>QQ: 3196614820</p>
+         <p>微信：cz15655003268</p>
       </el-col>
     </el-row>
   </div>
@@ -94,5 +95,13 @@ export default {
 div{
    margin: 0;
    padding: 0;
+}
+
+p {
+  padding-left: 30px;
+  color: #80D7D1;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
 }
 </style>
